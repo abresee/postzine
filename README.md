@@ -1,4 +1,4 @@
 postzine
 ========
 
-My site and it's software
+My site and its software
