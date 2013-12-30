@@ -1,0 +1,57 @@
+[01:17:50] <cannabinergic@postzine.org> 3711-8554-0231
+*** 2013-12-29
+[16:30:56] <cannabinergic@postzine.org> I'm thinking about getting one of the new pokemon games. Do you have one and if so is it X or Y?
+*** 2013-12-30
+[16:57:10] <allie> i've been playing a lot of A Link Between Worlds, but casually
+[16:57:19] <allie> I'm trying to figure out the tower of hera right now
+[17:09:06] <allie> I've been writing "internet poetry", are you interested in reading some?
+[17:09:39] <cannabinergic@postzine.org> Ya i get what you mean. Helping tutor people has helped me in class. I actually would like to learn especially now since all I have is free time. Sure I would but what exactly is internet poetry
+*** LINK REDACTED***
+[17:11:03] <allie> hm
+[17:11:05] <allie> that didn't work...
+[17:11:17] <cannabinergic@postzine.org> ya it 404ed
+[17:11:53] <allie> Ah!
+[17:12:01] <allie> because i mispelled it ORIGINALLY
+[17:12:02] <allie> correcting
+[17:14:40] <allie> try
+[17:14:41] <allie> now
+[17:14:44] <allie> refresh
+[17:14:46] <allie> or whatever
+[17:15:38] <allie> that started a real conversation
+[17:15:43] <allie> that we collectively edited
+[17:15:50] <allie> pulled out lines that seeemed too personal etc
+[17:16:00] <cannabinergic@postzine.org> ah I see
+[17:16:07] <allie> the name "Ezekiel.txt" comes from some lines that were "cut"
+[17:16:23] <allie> the original working versions are all in the "revision control system", which is called "git"
+[17:16:50] <allie> http://en.wikipedia.org/wiki/Git_(software)
+[17:18:06] <allie> what kind of computer ya using?
+[17:18:09] <allie> still a pc laptop?
+[17:18:36] <cannabinergic@postzine.org> ya
+[17:20:26] <allie> download this http://nuwen.net/mingw.html
+[17:20:33] <allie> the one with git
+[17:20:37] <allie> read the readme etc
+[17:21:00] <allie> you have to like, practice using it in a real way
+[17:21:12] <allie> which we can do if you want
+[17:21:41] <allie> i can explain any of the terminology you want
+[17:21:48] <allie> so you can understand what you're installing
+[17:24:36] <cannabinergic@postzine.org> I liked Ezekiel.txt I liked the end
+[17:25:16] <cannabinergic@postzine.org> As in the last part resonated with me
+[17:25:43] <allie> :)
+[17:26:56] <allie> I'm glad you say that
+[17:28:42] <cannabinergic@postzine.org> So thats your friend michael? Have I met him?
+[17:28:50] <allie> maybe
+[17:29:32] <cannabinergic@postzine.org> would you say any choice we make is ultimately meaningless?
+[17:29:49] <allie> he remembers you playing MadWorld at my house at some point
+[17:30:05] <allie> I would say that the only meaning that can be found in any choice is in retrospect
+[17:34:36] <cannabinergic@postzine.org> I learned a little about string theory and levels of dimensions recently. I was just thinking that if there is an alternate time line arising from every possibility of an action then it does not matter what we do because we are just following a perticular time line and the one where we made another choice also exists so it didn't really matter what we think we chose. and ya i know this idea is based off of an unproven theory but i still like it
+[17:35:45] <allie> yeah I've read about that kind of stuff
+[17:35:53] <allie> never know what to make of it
+[17:35:56] <allie> "string theory"
+[17:36:19] <allie> seems like the kind of thing you can't understand without decades of graduate work
+[17:39:07] <cannabinergic@postzine.org> Ya thats true so I guess theres no point in trying to apply it to reality as we don't really understand it; even the people studying it. I like the idea of there being levels of dimensions though. At least it helps provide some explanation of what exists outside the universe
+[17:39:30] <allie> some people talk
+[17:39:38] <allie> about the distinction between "universes"
+[17:39:40] <allie> and "multiverses"
+[17:39:43] <allie> and i always think
+[17:39:59] <allie> what is the difference? the word "universe" means "everything taken together as one" to me
+[17:42:36] <cannabinergic@postzine.org> I dont know I always thought of the universe as everything existing in space and time in the same way. Because what else would you call everything containg all the galaxies and all of our moments of existence but I can see there being other universes with different dimensions or different laws of physics and I can also see there being higher dimensions that we cant even begin to conceive of
