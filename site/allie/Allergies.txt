@@ -6,26 +6,14 @@
 [16:57:19] <allie> I'm trying to figure out the tower of hera right now
 [17:09:06] <allie> I've been writing "internet poetry", are you interested in reading some?
 [17:09:39] <cannabinergic@postzine.org> Ya i get what you mean. Helping tutor people has helped me in class. I actually would like to learn especially now since all I have is free time. Sure I would but what exactly is internet poetry
-*** LINK REDACTED***
-[17:11:03] <allie> hm
-[17:11:05] <allie> that didn't work...
-[17:11:17] <cannabinergic@postzine.org> ya it 404ed
-[17:11:53] <allie> Ah!
-[17:12:01] <allie> because i mispelled it ORIGINALLY
-[17:12:02] <allie> correcting
-[17:14:40] <allie> try
-[17:14:41] <allie> now
-[17:14:44] <allie> refresh
+*** Link Redacted
 [17:14:46] <allie> or whatever
 [17:15:38] <allie> that started a real conversation
 [17:15:43] <allie> that we collectively edited
 [17:15:50] <allie> pulled out lines that seeemed too personal etc
 [17:16:00] <cannabinergic@postzine.org> ah I see
-[17:16:07] <allie> the name "Ezekiel.txt" comes from some lines that were "cut"
-[17:16:23] <allie> the original working versions are all in the "revision control system", which is called "git"
-[17:16:50] <allie> http://en.wikipedia.org/wiki/Git_(software)
 [17:18:06] <allie> what kind of computer ya using?
-[17:18:09] <allie> still a pc laptop?
+[17:18:09] <allie> still a pc/win laptop?
 [17:18:36] <cannabinergic@postzine.org> ya
 [17:20:26] <allie> download this http://nuwen.net/mingw.html
 [17:20:33] <allie> the one with git
@@ -34,7 +22,7 @@
 [17:21:12] <allie> which we can do if you want
 [17:21:41] <allie> i can explain any of the terminology you want
 [17:21:48] <allie> so you can understand what you're installing
-[17:24:36] <cannabinergic@postzine.org> I liked Ezekiel.txt I liked the end
+[17:24:36] <cannabinergic@postzine.org> I liked Ezekiel.txt. I liked the end
 [17:25:16] <cannabinergic@postzine.org> As in the last part resonated with me
 [17:25:43] <allie> :)
 [17:26:56] <allie> I'm glad you say that
@@ -48,20 +36,20 @@
 [17:35:53] <allie> never know what to make of it
 [17:35:56] <allie> "string theory"
 [17:36:19] <allie> seems like the kind of thing you can't understand without decades of graduate work
-[17:39:07] <cannabinergic@postzine.org> Ya thats true so I guess theres no point in trying to apply it to reality as we don't really understand it; even the people studying it. I like the idea of there being levels of dimensions though. At least it helps provide some explanation of what exists outside the universe
+[17:39:07] <cannabinergic@postzine.org> Ya thats true. So I guess theres no point in trying to apply it to reality as we don't really understand it; even the people studying it. I like the idea of there being levels of dimensions though. At least it helps provide some explanation of what exists outside the universe.
 [17:39:30] <allie> some people talk
 [17:39:38] <allie> about the distinction between "universes"
 [17:39:40] <allie> and "multiverses"
 [17:39:43] <allie> and i always think
 [17:39:59] <allie> what is the difference? the word "universe" means "everything taken together as one" to me
-[17:42:36] <cannabinergic@postzine.org> I dont know I always thought of the universe as everything existing in space and time in the same way. Because what else would you call everything containg all the galaxies and all of our moments of existence but I can see there being other universes with different dimensions or different laws of physics and I can also see there being higher dimensions that we cant even begin to conceive of
+[17:42:36] <cannabinergic@postzine.org> I dont know. I always thought of the universe as everything existing in space and time in the same way. Because what else would you call everything containing all the galaxies, and all of our moments of existence? but I can see there being other universes with different dimensions, or different laws of physics... and I can also see there being higher dimensions that we cant even begin to conceive of.
 [17:47:14] <allie> My cousin, My love, Strike a pose and say cheeeeze
 [17:49:53] <cannabinergic@postzine.org> ?
-[17:52:34] <cannabinergic@postzine.org> So could anyone just stumble upon this?
-[17:52:47] <allie> they'd have to be stalking me
+[17:52:34] <cannabinergic@postzine.org> So could anyone just stumble upon this document?
+[17:52:47] <allie> they'd have to be stalking me...  :(
 [17:53:23] <allie> which is not unreasonable, considering I have had squabbles with all sorts of weird punks and activists and police over the past 2 years
-[17:54:40] <cannabinergic@postzine.org> i just finished extracting that file you had me dl
-[17:58:20] <cannabinergic@postzine.org> alright I signed up as cannabinergic
+[17:54:40] <cannabinergic@postzine.org> i just finished extracting that file you had me dl...
+[17:58:20] <cannabinergic@postzine.org> alright, I signed up as cannabinergic
 [18:15:45] <allie> what's your fav Final Fantasy game
 [18:18:32] <cannabinergic@postzine.org> well I never really got through the old ones but the one thatmoved me the most was final fantasy 10. Thats actually the only one Ive ever finished too
 [18:18:54] <allie> Yeah, that one is probably my favorite
@@ -76,3 +64,45 @@
 [18:22:28] <allie> you have to put each one away
 [18:23:04] <cannabinergic@postzine.org> Ya its almost like killing yourself. I mean that is what ultimately happens
 [18:26:45] <cannabinergic@postzine.org> And also its not like there is one side that is in the wrong because wasnt it the people of that city who dreamed up sin and tidus in order to save themselves or something?
+[18:48:38] <allie> it was like
+[18:48:48] <allie> Zanarkand was a place that never existed
+[18:49:03] <allie> and was only in the fable of "Sin" that people imagined it
+[18:49:21] <allie> sin is entered, and deconstructed into constituent parts one by one
+[18:49:32] <allie> (reminded me a LOT of "Lavos" there)
+[18:51:40] <allie> And then finally, all the illusory weapons, spells, revealed to be nothing but illusionist's magic generated by the very machina of the Al'Bhed the mainstream society feared, are put away one by one.
+[18:51:43] <allie> the whole... 
+[18:51:59] <allie> Yuna-As-Pop-Idol thing was fucked imho
+[18:52:03] <allie> In FFX-2
+[18:52:16] <cannabinergic@postzine.org> i never played the second one
+[18:52:24] <allie> kind of ruined her as a character? or maybe I just didn't get far enough who knows
+[18:53:31] <cannabinergic@postzine.org> Ya it was probably just an appeal to japanese media culture
+[18:56:38] <allie> did you get it to clone to your desktop?
+[18:56:43] <allie> the postzine github repo
+[18:58:09] <cannabinergic@postzine.org> when i try it asks me to dl github for windows but shouldnt I use the nuwen.net mingw?
+[18:59:40] <allie> you can try either way
+[18:59:56] <allie> you're not as familiar with the command line as you could be, I expect
+[19:00:05] <allie> using the mingw would be practice for that
+[19:00:22] <allie> using "github for windows" would get you up and running directly editing shit on github faster
+[19:00:29] <allie> it's a trade off for sure
+[19:07:00] <cannabinergic@postzine.org> i guess i'll just learn how git works first so I don't have to learn both at the same time
+[19:11:17] <allie> yeah
+[19:12:14] <allie> http://git-scm.com/book/en/Getting-Started
+[19:12:18] <allie> that's a practical guide
+[19:20:07] <cannabinergic@postzine.org> Alright I have the clone pulled up on the github app
+[19:20:25] <cannabinergic@postzine.org> so you made another one?
+[19:20:49] <allie> made another what
+[19:21:39] <allie> I like
+[19:21:43] <allie> updated the git repo
+[19:22:22] <allie> that is on the webserver
+[19:22:26] <allie> that i lease
+[19:22:36] <allie> the way i do that
+[19:22:43] <allie> is i update my local repo
+[19:22:48] <allie> "commit", in git slang
+[19:23:01] <allie> and then i push whatever i committed
+[19:23:04] <allie> to the github repo
+[19:23:05] <allie> then
+[19:23:12] <allie> i log in to the webserver remotely
+[19:23:51] <allie> and there, i navigate to its local copy of the git repo
+[19:23:57] <allie> and i PULL the changes
+[19:24:00] <allie> from the master repo
+[19:24:21] <allie> all of this i do with manual commands but i have a lot of keyboard shortcuts etc
