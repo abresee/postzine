@@ -1,4 +1,6 @@
 A Modern Materialist Analysis of Social Media
+Author: Allie O.
+contrib: @NotJohnFord
 
 Abstract:
 
@@ -18,6 +20,21 @@ An analysis can be performed of the existing radio, fiber, and co-axial networks
 
 A modern materialist analysis of social media must rely on a direct dissection of the technologies that spin the web. As this dazzling soup of independent media outlets sprays unfiltered, uncited content wantonly into the media sea, it is only through direct comparison of the functionality of the different "sharing" functionality (the various 'tweets', 'retweets', 'plus one's and 'facebook posts') that a modern material understanding of social media can be formed. What proceeds is a direct analysis of the technological underpinnings of the web, their historical roots,  the motivations of the various standards bodies that create these technologies, and its social implications as the  modern media drama unfolds.
 
-1. Facebook **in progress #feminism #derailing**
+1. Wither Anarchism (cf. Bookchin)?
+
+Anarchism is an ill-defined ideology. In North America, Anarchism has three main intellectual forbears: Labor-Anarchism (with Berkman and Goldman as banner-bearers), Social-Anarchism (with British punk rockers "Crass" locked in timeless struggle with the likes of Bookchin), and the form most visible in recent years, Anonymous.
+    a) Anarcho-history lesson (American Labor Movement, russian immigration, Narodyniks, Haudenosaunee, Lucy Parsons?)
+    b) the rise of anon
+        i) early internet
+        ii) USENET
+        iii) The Web and PGP
+        iv) "moot", 4chan, & Japanese cross-cultural pollination
+        v) Operation Chanology (cf. Marblecake?)
+            1.) "There is no force which can hold back the irreverence of the net when someone is attempting to be serious about something." - @NotJohnFord
+            2.) Unfortunately, for many communities, the only effective method of enforcement of the ettiquite of discussion (what in less immediate forms of online communication is called 'nettiquette') is to moderate discussion without recourse to the contributor. Individuals who see themselves as simply asking questions with no understanding of how they are being percieved as a group are often outraged, or depressed, to find themselves silenced in discussion. The practice of "Banning" has meaning on old-net communication systems (such as BBS, fora, or USENET-style email lists), but in modern "social media" communications, there is not a well-defined conception of "place" for people to be banned from. To wit: anyone can form a "group" online, and whenever there exists a clique with no defined ways of resolving conflict, any attempts to end (potentially seriously violent) conflicts tend towards the vigilante.
+        vi) the "Arab Spring" and the "London Riots", Adbusters, #OCCUPYWALLSTREET, and mass media perceptions of uprisings in geeneral
+        vii) the Boston Area Student Movement, Oakland CA, and "Feminist Vigilante Gangs"
+
+2. Facebook **in progress #feminism #derailing**
 
 Because of the nature of facebook's privacy infrastructure, it is impossible to know if one is seeing all sides of the discussion as it actually unfolds. "Derailing", as a concept, is inherently problematic through social media communication channels -- that is, without a pre-established set of social mores of discussion or even an understanding of who may be participating in the discussion, it is simultaneously impossible to NOT de-rail AND ALSO to prevent de-railment itself. This train ain't got no fukkin engineer, we just go hard.
