@@ -1,0 +1,5 @@
+Disabling vibrations on each message:
+    Go to the buddy list page
+    hit the settings button
+    tap the vibration setting
+    yr done
